@@ -254,3 +254,70 @@ section{
 .nr{
     width: 80%;
 }
+.t{
+    font-family: "Playwrite CU", cursive;
+}
+.seraj1{
+    gap: 10%;
+    display: flex;
+    justify-content: center;
+}
+.seraj2{
+    gap: 10%;
+    display: flex;
+    justify-content:center;
+    margin-top: 5%;
+}
+.imgseraj{
+    width: 100%;
+    height: 70%;
+}
+.es{
+    margin-bottom:5% ;
+   text-align: center; 
+    gap:5%
+}
+.divimg{
+    width: 20%;
+    height: 20%;
+    text-align: center;
+ 
+}
+.ana{
+    margin-bottom: 5%;
+}
+.but{
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.buts{
+    display: flex;
+    justify-content: center;
+   margin-top: 5%;
+}
+.head1{
+    background-image: url('https://drive.google.com/thumbnail?id=1rvJzEhYAbBwfiyPD2MifLs3rh6T8WIAv');
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 50vh;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    
+     
+      
+    
+}
+
+.write{
+   display: flex;
+  flex-direction: column;
+   align-content: center;
+    width: 25%;
+    gap: 60px;
+}
